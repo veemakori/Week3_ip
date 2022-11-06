@@ -57,3 +57,32 @@ button {
     float: left;
     text-align: left;
   }
+
+  strong.focus {
+    color: rgb(252, 247, 250);
+  }
+  /*
+  padding-top: 80px;
+  padding-right: 70px;
+  padding-bottom: 80px;
+  padding-left: 80px;*/
+  
+  #wht{
+    color: black;
+  }
+  #design-dis{
+    color: black;
+    display: none;
+  }
+  #dev-dis {
+    color: black;
+    display: none;
+  }
+  #product-dis {
+    color: black;
+    display: none;
+  }
+  #img-mouse {
+    padding-top: 100px;
+    padding-bottom: 20px;
+  }
