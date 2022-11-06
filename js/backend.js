@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $("img#img-design").click(function(){
+      $("p#design-dis").toggle();
+      $("img#img-design").toggle();
+    });
+    $("img#img-dev").click(function(){
+      $("p#dev-dis").toggle();
+      $("img#img-dev").toggle();
+    });
