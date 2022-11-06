@@ -1,0 +1,31 @@
+button {
+    color: aqua;
+  }
+  p {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+    color: azure;
+  }
+  #Ser {
+    text-align: center;
+    color: azure;
+  }
+  label {
+    text-align: center;
+  }
+  .focus {
+    color: azure;
+  }
+  h2 {
+    text-align: center;
+    color: azure;
+  }
+  img {
+    text-align: center;
+  }
+  
+  div.box {
+    text-align: center;
+  }
