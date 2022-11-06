@@ -6,7 +6,7 @@ Independent Project week 3
 A website for delani studio with company portfolio.
 
 # Project link
-https://github.com/veemakori/Week3_ip.git
+https://veemakori.github.io/Week3_ip/
 ---
 # Author Of the Project
 Verah Makori
