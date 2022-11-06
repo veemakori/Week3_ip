@@ -11,3 +11,16 @@ https://github.com/veemakori/Week3_ip.git
 # Author Of the Project
 Verah Makori
 ---
+# Set up Instructions
+No set up is required for this project, just access the website provided.
+
+# Technologies Used
+HTML,
+CSS,
+Javascript,
+JQuery.
+
+# copyright and license
+MIT License
+
+Copyright ©2022 
