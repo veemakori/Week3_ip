@@ -86,3 +86,31 @@ button {
     padding-top: 100px;
     padding-bottom: 20px;
   }
+
+  #port {
+    text-align: center;
+  }
+  
+  #p1 {
+    display: none;
+    color: black;
+  }
+  img {
+    opacity: 1;
+  }
+  
+  img:hover {
+    opacity: 0.5;
+  }
+  #wht-text1-work8 {
+    color: black;
+  }
+  
+  #work1 {
+    display: none;
+    color: black;
+  }
+  #work2 {
+    display: none;
+    color: black;
+  }
